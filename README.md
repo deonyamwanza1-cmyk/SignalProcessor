@@ -31,18 +31,18 @@ Ensure you have a C++ compiler (like `g++`) and Python installed, along with the
 1. **Generate the Noisy Data:**
    ```bash
    python SignalGenerator.py
-   (This creates signal_data.txt)
+ (This creates signal_data.txt)
 
 2. **Compile and Run the C++ Filter:**
    ```bash
    g++ FilterEngine.cpp -o FilterEngine
    ./FilterEngine
-   (This reads the noisy data and outputs the clean signal to filtered_data.txt)
+ (This reads the noisy data and outputs the clean signal to filtered_data.txt)
    
 4. **Visualize the Results:**
    ```bash
    python VisualizeSignal.py
-   (This generates and displays filter_results.png)
+ (This generates and displays filter_results.png)
    
 ***
 
