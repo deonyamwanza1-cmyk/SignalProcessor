@@ -1,0 +1,16 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SignalFilter/SignalFilter.vcxproj" />
+  <Project Path="SignalGenerator/SignalGenerator.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+    <Platform Project="AnyCPU" />
+    <Build Project="false" />
+  </Project>
+  <Project Path="VisualizeSignal/VisualizeSignal.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+    <Platform Project="AnyCPU" />
+    <Build Project="false" />
+  </Project>
+</Solution>
