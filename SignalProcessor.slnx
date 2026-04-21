@@ -4,12 +4,12 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="SignalFilter/SignalFilter.vcxproj" />
-  <Project Path="SignalGenerator/SignalGenerator.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+  <Project Path="SignalFilter/SignalFilter.vcxproj" Id="46b16613-ffeb-4eba-9720-e3207d6ae90d" />
+  <Project Path="SignalGenerator/SignalGenerator.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="cd480c98-70a6-4492-8166-49cfb27fcdf0">
     <Platform Project="AnyCPU" />
     <Build Project="false" />
   </Project>
-  <Project Path="VisualizeSignal/VisualizeSignal.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+  <Project Path="VisualizeSignal/VisualizeSignal.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="1ebf5135-93bc-4bfc-ba39-6bf4bc0f5e68">
     <Platform Project="AnyCPU" />
     <Build Project="false" />
   </Project>
