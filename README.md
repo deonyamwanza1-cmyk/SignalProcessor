@@ -36,7 +36,7 @@ Ensure you have a C++ compiler (like `g++`) and Python installed, along with the
 2. **Compile and Run the C++ Filter:**
    ```bash
    g++ FilterEngine.cpp -o FilterEngine
-  ./FilterEngine
+   ./FilterEngine
    (This reads the noisy data and outputs the clean signal to filtered_data.txt)
    
 4. **Visualize the Results:**
