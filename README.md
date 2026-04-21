@@ -47,4 +47,4 @@ Ensure you have a C++ compiler (like `g++`) and Python installed, along with the
 ***
 
 ### Output Preview
-![Graph of filtered signals](filter_result.png)
+![Graph of filtered signals](filter_results.png)
