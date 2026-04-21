@@ -1,0 +1,13 @@
+# Visual Studio folder
+.vs/
+
+# Build folders
+x64/
+Debug/
+Release/
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.user
